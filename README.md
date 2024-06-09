@@ -36,7 +36,21 @@ To run the quiz app, follow these steps:
 - `requirements.txt`: Lists the required Python libraries.
 
 ## Screenshots
-(Include screenshots of the quiz app in action, if applicable)
+
+### Category Selection Screen
+![Category Selection Screen](Screenshots/1.png)
+*Description: This screenshot features the category selection screen in the QuizIt Application. Users can choose from a wide range of categories, including General Knowledge, various Entertainment categories (Books, Film, Music, etc.), different Science categories (Nature, Computers, Mathematics, etc.), and more. There is a total of 24 categories listed, and users can click the "Get Value" button to proceed with their selection.*
+
+### Question Screen
+![Question Screen](Screenshots/2.png)
+*Description: This screenshot displays the questions of a quiz within the QuizIt Application. The user can select an option and click "Next" to proceed to the next question. The interface includes a "Quit" button at the top right corner.*
+
+### Result Screen
+![Result Screen](Screenshots/3.png)
+*Description: This screenshot shows the feedback provided after answering all the questions in the QuizIt Application and displays a result window showing the user's score.*
+
+
+
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
